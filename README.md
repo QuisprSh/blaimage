@@ -1,5 +1,8 @@
 # blaimage 🦈
 
+THIS IS JUST SOMETHING I MADE ON A WHIM, PLEASE USE https://wamellow.com/
+cause there bot is better and has more features and is installable on both guilds and user
+
 a user-installable bot that adds `/blahaj`. use it to get a random blahaj image or see how many there are on the selected server.
 
 ## usage
@@ -41,5 +44,3 @@ ngrok http --url=<NGROK-STATIC-URL> 3000
 ```
 https://discord.com/oauth2/authorize?client_id=<APP_ID>&integration_type=1&scope=applications.commands
 ```
-
-
